@@ -19,3 +19,7 @@
 8 - 100236
 
 9 - 99898
+
+total = 1000001
+
+As soma das repeticoes de φ e igual a quantidade de digitos ! 
