@@ -22,4 +22,5 @@
 
 total = 1000001
 
-As soma das repeticoes de φ e igual a quantidade de digitos ! 
+As soma das repetições de φ e igual a quantidade de digitos ! 
+
