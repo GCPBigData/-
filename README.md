@@ -23,4 +23,5 @@
 total = 1000001
 
 As soma das repetições de φ e igual a quantidade de digitos + 1! 
+Os digitos 6 8 7 se reptem mais que os outros, sendo o 6 o que mais se repete !
 
